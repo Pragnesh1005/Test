@@ -1,3 +1,5 @@
+// Convert 8 bit image to float image using opencv
+// Test project 
 #include <iostream>
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/highgui.hpp"
